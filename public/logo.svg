@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Libro abierto -->
+  <path d="M100 370 C100 370 170 340 240 380 L240 100 C170 60 100 90 100 90 Z" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M65 390 C65 390 100 370 100 90" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" />
+  <path d="M260 380 C330 340 400 370 400 370 L400 90 C400 90 330 60 260 100 Z" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Taza de café -->
+  <path d="M255 180 L400 180 C400 180 440 180 440 235 C440 290 400 290 400 290 L255 290" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" />
+  <path d="M400 210 C420 210 435 220 435 250 C435 280 420 290 400 290" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" />
+  <path d="M255 385 L415 385" fill="none" stroke="#C88A53" stroke-width="22" stroke-linecap="round" />
+  
+  <!-- Humo de la taza -->
+  <path d="M200 120 C200 60 270 60 270 30 C270 10 320 10 320 45 C320 80 250 80 250 110 C250 135 300 145 320 120" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" />
+  <path d="M285 200 C285 170 330 170 330 150 C330 130 360 130 360 150 C360 170 315 170 315 200 C315 215 345 225 360 210" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" />
+</svg>
